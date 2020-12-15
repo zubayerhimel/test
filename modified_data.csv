@@ -1,0 +1,184 @@
+Gender,calories_scone,comfort_food,comfort_food_reasons,weight
+1,420,"chocolate, chips, ice cream",stressed,155
+1,420,"chocolate, chips, ice cream",boredom,155
+1,420,"chocolate, chips, ice cream", anger,155
+1,420,"frozen yogurt, pizza, fast food",stressed,125
+1,420,"frozen yogurt, pizza, fast food",sadness,125
+1,420,"pizza, cheese, ice cream",boredom,240
+1,420,"Ice cream, chocolate, chips ",stressed,190
+1,420,"Ice cream, chocolate, chips ", boredom,190
+1,980,"brownies , soda.",stressed,190
+2,420,"chocolate, ice cream, french fries, pretzels",stressed,180
+2,420,"chocolate, ice cream, french fries, pretzels", boredom,180
+1,420,"ice cream, cheeseburgers, chips.",stressed,137
+1,420,"donuts, ice cream, chips",boredom,180
+1,315,"cheese, chocolate, pasta ",stressed ,125
+1,315,"cheese, chocolate, pasta ", anger  ,125
+1,315,"cheese, chocolate, pasta ",sadness ,125
+1,980,pasta,boredom,116
+1,420,"chocolate, pasta, soup, chips, popcorn",sadness,110
+1,420,"chocolate, pasta, soup, chips, popcorn", stressed,110
+2,420,"cookies, popcorn, , chips",sadness,264
+2,420,"cookies, popcorn, , chips", boredom,264
+1,420,"ice cream, cake, chocolate",stressed,123
+1,420,"ice cream, cake, chocolate",boredom,123
+2,420,"pizza, fruit, spaghetti, chicken , potatoes  ",boredom,185
+2,980,"cookies, donuts",boredom,180
+1,420,"saltfish, Kit Kat ",stressed ,145
+2,980,"chips, cookies, ice cream",boredom,170
+1,980,"chocolate, ice crea ",sadness,135
+1,980,"chocolate, ice crea ", stressed,135
+2,420,"pizza, wings, chinese",boredom,165
+2,420,"pizza, wings, chinese", sadness,165
+2,980,"fast food, pizza, subs",happiness,175
+2,315,"chocolate, sweets, ice cream",boredom,195
+2,420,"burgers, chips, cookies",sadness,185
+2,420,"burgers, chips, cookies",depressed ,185
+2,420,"chilli, soup, pot pie",stressed ,185
+2,420,"chilli, soup, pot pie", boredom ,185
+1,420,"soup, pasta, cake",sadness,105
+1,420,"chocolate, ice cream, milkshake, cookies",boredom,125
+2,420,"chips, ice cream",boredom,160
+2,980,"chicken, pizza ",boredom,175
+2,420,"cookies, hot chocolate, beef jerky",boredom,180
+2,420,"tomato soup, pizza",boredom,167
+2,420,"tomato soup, pizza",anger,167
+1,420,"cookies,  brownies, french fries, ",stressed,115
+1,420,"cookies,  brownies, french fries, ",boredom,115
+2,420,"chips , pepsi",boredom,205
+2,315,sushi,boredom,185
+1,420,"ice cream, cookies,  chinese food, , chicken nuggets ",boredom,128
+1,420,"ice cream, cookies,  chinese food, , chicken nuggets ", sadness,128
+1,420,"french fries, chips, ice cream",boredoms,150
+1,420,"french fries, chips, ice cream",stressed,150
+1,420,"french fries, chips, ice cream", sadness,150
+1,420,"peanut butter , banana, omelet",boredom,150
+1,420,"pizza, doughnuts",boredom,150
+1,420,"chocolate, chips",stressed,170
+1,980,"chocolate, popcorn, ice cream",boredom,150
+1,980,"chocolate, popcorn, ice cream",stressed,150
+2,315,"pizza, ice cream, fries, cereal, cookies  ",depressed,140
+1,420,"ice cream, cookies, cheese",boredom,135
+1,980,"ice cream, cereal, , salt , vinegar chips ",boredom,100
+1,420,"potato chips, ice cream, chocolate, cookies",stressed,170
+1,420,"potato chips, ice cream, chocolate, cookies", boredom,170
+1,315,"cheese, fried chicken, cornbread",boredom,113
+2,420,"popcorn, chips, fries ",anger,168
+2,980,wegmans cookies,boredom,145
+2,315,"pizza, ice cream, chips",stressed,155
+2,315,"fried chicken. mashed potatoes, mac , cheese",stressed,150
+2,420,"popcorn, chex Mix, pizza",stressed,169
+2,420,"popcorn, chex Mix, pizza",boredom,169
+2,980,burger,anger,185
+2,420,"pizza, chocolate, , ice cream ",anger,200
+2,980,"fries, chips, fried chicken, pizza, grapes",boredom,265
+2,420,"peanut butter, pretzals, garlic bread",stressed,165
+2,420,"peanut butter, pretzals, garlic bread",anger,165
+2,420,"peanut butter, pretzals, garlic bread", boredom,165
+1,315,"chips, dip, fries, pizza",stressed,192
+2,315,"pizza, ice cream",boredom,175
+1,980,"pizza, chocolate",happiness,140
+1,420,"chocolate, ice cream, pasta",stressed,155
+1,420,"chocolate, ice cream, pasta",boredom,155
+1,420,"chocolate, ice cream, pasta",sadness,155
+1,420,"Chips , ice cream. ",boredom,155
+1,420,"peanut butter, dessets, pretzels",sadness,135
+1,420,"peanut butter, dessets, pretzels",boredom,135
+1,980,"macaroons, truffles, peanut butter,chocolate, ice cream",sadness,118
+2,980,"ice cream, cookies",boredom,210
+2,980,"ice cream, cookies", sadness,210
+1,980,"carrots , ranch, pretzels, dark chocolate ",sadness,180
+1,420,"cookies, nutella, ice cream, coffee, fruit ",happiness,140
+1,315,ice cream,boredom,112
+1,420,"chocolate, popcorn, icecream",sadness,125
+1,420,"icecream, cake, mozzarella sticks, pierogies ",boredom,144
+1,315,"chips, cheese, pizza, french fries ",stressed ,145
+1,315,"chips, cheese, pizza, french fries ", sadness,145
+1,315,"chips, cheese, pizza, french fries ",boredom ,145
+1,420,"pizza, burritos, slim jims",stressed,130
+1,980,"broccoli, spaghetti squash, quinoa, , grilled chicken",sadness,140
+1,420,"chocolate, ice cream, cookie dough",boredom,140
+2,980,"pizza, pretzels",boredom,140
+2,980,"pizza, pretzels",anger,140
+2,980,"pizza, pretzels",happiness,140
+2,420,"chips, ice cream",boredom,200
+2,420,"chips, ice cream", stressed,200
+1,420,"cheese, potato soup, ice cream, chips , cheese",sadness,120
+1,420,"cheese, potato soup, ice cream, chips , cheese", stressed,120
+1,420,"cheese, potato soup, ice cream, chips , cheese",boredom,120
+1,420,"chocolate, pizza, , mashed potatoes",boredom,150
+1,420,"chocolate, pizza, , mashed potatoes", stressed,150
+2,420,"pizza, cookies, steak",boredom,200
+1,420,"chocolate, fruit, , ice cream",stressed,135
+1,420,"chocolate, fruit, , ice cream", boredom,135
+2,420,"chips, sweets, popcorn",boredom,145
+1,420,"cookies, burgers, chicken noodle soup, ice cream",happiness,130
+1,420,"cookies, burgers, chicken noodle soup, ice cream",sadness,130
+1,420,"cake, French fries, chicken nuggets",boredom,190
+1,420,"cake, French fries, chicken nuggets",sadness,190
+1,315,"pizza, ice cream, cookies",boredom,170
+1,420,"mashed potatoes, pasta",boredom,127
+1,420,"mashed potatoes, pasta", sadness,127
+1,420,"pasta dishes, cheesecake, pancakes",sadness,167
+1,420,"pasta dishes, cheesecake, pancakes", boredom,167
+1,315,"icecream, pizza, cookies",stressed,140
+1,420,"chinese food, moes, sponge, homemade lasagne ",boredom,190
+1,420,"chinese food, moes, sponge, homemade lasagne ", sadness ,190
+2,420,"pizza, pasta, mac , cheese",sadness,155
+2,980,"little debbie snacks, donuts, pizza",happiness,175
+1,420,"carrots, plantain chips, almonds, popcorn ",stressed,129
+1,420,"carrots, plantain chips, almonds, popcorn ",boredom,129
+2,420,"chips, ice cream, fruit snacks",boredom,260
+1,420,"macaroni , cheese, chicken noodle soup, pizza",boredom,135
+1,420,"macaroni , cheese, chicken noodle soup, pizza",stressed,135
+2,420,"chocolate, chips, icecream, french fries, pizza",stressed,190
+2,420,"chocolate, chips, icecream, french fries, pizza",sadness,190
+2,420,"chocolate, chips, icecream, french fries, pizza",boredom,190
+2,420,"lasagna, chinese food",boredom,165
+2,420,"lasagna, chinese food",sadness,165
+2,420,"chinese food, mcdonalds",happiness,175
+2,420,"doritos, icecream",boredom,184
+2,420,"icecream, cake, pop, pizza, , milkshakes",happiness,210
+2,420,"icecream, cake, pop, pizza, , milkshakes", sadness,210
+1,420,"pizza, icecream , french fries ",anger,155
+2,315,"soup, cake",depressed,185
+1,420,"frosted brownies, chicken nuggs",sadness,165
+1,420,"watermelon, grapes, ice cream",sadness,125
+1,420,"watermelon, grapes, ice cream",boredom,125
+1,420,"macaroni , stuffed peppers, hamburgers, french fries",boredom,160
+1,420,"macaroni , stuffed peppers, hamburgers, french fries",stressed,160
+1,420,"pizza, mashed potatoes, spaghetti",anger,135
+1,420,"pizza, mashed potatoes, spaghetti",sadness,135
+1,420,"dark chocolate, terra chips",anger,130
+1,420,"chips, chocolate, ,mozzarella sticks ",boredom,230
+1,420,"chips, chocolate, ,mozzarella sticks ",sadness,230
+1,420,"icecream, chips,",boredom,125
+1,420,"icecream, chips,",anger,125
+1,315,"pizza, soda, chocolate brownie, chicken tikka masala , butter naan ",stressed,130
+1,315,"pizza, soda, chocolate brownie, chicken tikka masala , butter naan ",sadness,130
+1,420,"chocolate, pasta, cookies",stressed,165
+1,420,"salty snacks, toast",stressed,128
+1,420,"salty snacks, toast",sadness,128
+1,420,"salty snacks, toast", boredom,128
+1,420,"pizza, mozzarella sticks ",stressed,200
+1,315,"icecream, pizza, chocolate",sadness,160
+2,980,"snacks, chips",boredom,170
+1,315,"chocolate, icecream, pizza",sadness,129
+1,315,"chocolate, icecream, pizza",happiness ,129
+1,315,"chocolate, icecream, pizza",boredom,129
+1,420,"icecream, pizza, chinese food ",boredom,170
+1,420,"icecream, pizza, chinese food ", sadness,170
+2,315,burgers,sadness,138
+2,315,burgers,happiness,138
+2,980,"chocolate bar, ice cream, pretzels, potato chips , protein bars.",stressed,150
+2,980,"chocolate bar, ice cream, pretzels, potato chips , protein bars.", boredom,150
+1,420,"icecream, chocolate, pizza, cucumber ",boredom ,170
+1,420,"chinese, chips, cake",stressed  ,140
+1,420,"chinese, chips, cake",boredom ,140
+2,420,"chips, rice, chicken curry,",happiness,185
+2,420,"chips, rice, chicken curry,", boredom,185
+1,420,"wine, pizza, ice cream ",boredom ,156
+1,420,"wine, pizza, ice cream ", sadness ,156
+1,315,"pizza, cheesecake",sadness,180
+1,420,"rice, potato, seaweed soup",sadness,120
+2,420,"lasagna, pizza",happiness,135
