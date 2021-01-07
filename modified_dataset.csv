@@ -1,184 +1,201 @@
 Gender,calories_scone,comfort_food,comfort_food_reasons,weight
-1,420,"chocolate, chips, ice cream",1,155
-1,420,"chocolate, chips, ice cream",2,155
-1,420,"chocolate, chips, ice cream",4,155
-1,420,"frozen yogurt, pizza, fast food",1,125
-1,420,"frozen yogurt, pizza, fast food",3,125
-1,420,"pizza, cheese, ice cream",2,240
-1,420,"Ice cream, chocolate, chips ",1,190
-1,420,"Ice cream, chocolate, chips ",2,190
-1,980,"brownies , soda.",1,190
-2,420,"chocolate, ice cream, french fries, pretzels",1,180
-2,420,"chocolate, ice cream, french fries, pretzels",2,180
-1,420,"ice cream, cheeseburgers, chips.",1,137
-1,420,"donuts, ice cream, chips",2,180
-1,315,"cheese, chocolate, pasta ",1,125
-1,315,"cheese, chocolate, pasta ",4,125
-1,315,"cheese, chocolate, pasta ",3,125
-1,980,pasta,2,116
-1,420,"chocolate, pasta, soup, chips, popcorn",3,110
-1,420,"chocolate, pasta, soup, chips, popcorn",1,110
-2,420,"cookies, popcorn, , chips",3,264
-2,420,"cookies, popcorn, , chips",2,264
-1,420,"ice cream, cake, chocolate",1,123
-1,420,"ice cream, cake, chocolate",2,123
-2,420,"pizza, fruit, spaghetti, chicken , potatoes  ",2,185
+1,420,"chocolate, chips, pizza",1,155
+1,420,"chips, ice cream",2,155
+1,420,"chocolate, pasta, cheese",4,155
+1,420,"pizza, chocolate, chips",1,125
+1,420,"popcorn, wings",3,125
+1,420,"pizza, cookies, ice cream",2,240
+1,420,"chocolate, chips ",1,190
+1,420,"ice cream, chips , cookies",2,190
+1,980,"chocolate, chips, pizza",1,190
+2,420,"chocolate, pizza, pretzels",1,180
+2,420,"chocolate, ice cream, cookies",2,180
+1,420,"chips, chocolate, pizza",1,137
+1,420,"donuts, ice cream, cookies",2,180
+1,315,"chips, chocolate, pretzels",1,125
+1,315,"cheese, popcorn, pasta ",4,125
+1,315,"popcorn, wings, french fries",3,125
+1,980,"pasta, donuts, cookies, ice cream",2,116
+1,420,"popcorn, wings, french fries, soup",3,110
+1,420,"chocolate, chips, pizza, pretzels",1,110
+2,420,"cookies, popcorn,  french fries",3,264
+2,420,"ice cream, cookies, donuts",2,264
+1,420,"chocolate, chips, pizza, pretzels",1,123
+1,420,"ice cream, cake, donuts",2,123
+2,420,"ice cream, cookies, donuts, cake",2,185
 2,980,"cookies, donuts",2,180
-1,420,"saltfish, Kit Kat ",1,145
+1,420,"pizza, chips ",1,145
 2,980,"chips, cookies, ice cream",2,170
-1,980,"chocolate, ice crea ",3,135
-1,980,"chocolate, ice crea ",1,135
-2,420,"pizza, wings, chinese",2,165
-2,420,"pizza, wings, chinese",3,165
-2,980,"fast food, pizza, subs",5,175
-2,315,"chocolate, sweets, ice cream",2,195
-2,420,"burgers, chips, cookies",3,185
-2,420,"burgers, chips, cookies",6,185
-2,420,"chilli, soup, pot pie",1,185
-2,420,"chilli, soup, pot pie",2,185
-1,420,"soup, pasta, cake",3,105
-1,420,"chocolate, ice cream, milkshake, cookies",2,125
-2,420,"chips, ice cream",2,160
-2,980,"chicken, pizza ",2,175
-2,420,"cookies, hot chocolate, beef jerky",2,180
-2,420,"tomato soup, pizza",2,167
-2,420,"tomato soup, pizza",4,167
-1,420,"cookies,  brownies, french fries, ",1,115
-1,420,"cookies,  brownies, french fries, ",2,115
-2,420,"chips , pepsi",2,205
-2,315,sushi,2,185
-1,420,"ice cream, cookies,  chinese food, , chicken nuggets ",2,128
-1,420,"ice cream, cookies,  chinese food, , chicken nuggets ",3,128
-1,420,"french fries, chips, ice cream",2,150
-1,420,"french fries, chips, ice cream",1,150
-1,420,"french fries, chips, ice cream",3,150
-1,420,"peanut butter , banana, omelet",2,150
-1,420,"pizza, doughnuts",2,150
-1,420,"chocolate, chips",1,170
-1,980,"chocolate, popcorn, ice cream",2,150
-1,980,"chocolate, popcorn, ice cream",1,150
-2,315,"pizza, ice cream, fries, cereal, cookies  ",6,140
-1,420,"ice cream, cookies, cheese",2,135
-1,980,"ice cream, cereal, , salt , vinegar chips ",2,100
-1,420,"potato chips, ice cream, chocolate, cookies",1,170
-1,420,"potato chips, ice cream, chocolate, cookies",2,170
-1,315,"cheese, fried chicken, cornbread",2,113
-2,420,"popcorn, chips, fries ",4,168
-2,980,wegmans cookies,2,145
-2,315,"pizza, ice cream, chips",1,155
-2,315,"fried chicken. mashed potatoes, mac , cheese",1,150
-2,420,"popcorn, chex Mix, pizza",1,169
-2,420,"popcorn, chex Mix, pizza",2,169
-2,980,burger,4,185
-2,420,"pizza, chocolate, , ice cream ",4,200
-2,980,"fries, chips, fried chicken, pizza, grapes",2,265
-2,420,"peanut butter, pretzals, garlic bread",1,165
-2,420,"peanut butter, pretzals, garlic bread",4,165
-2,420,"peanut butter, pretzals, garlic bread",2,165
-1,315,"chips, dip, fries, pizza",1,192
-2,315,"pizza, ice cream",2,175
-1,980,"pizza, chocolate",5,140
-1,420,"chocolate, ice cream, pasta",1,155
-1,420,"chocolate, ice cream, pasta",2,155
-1,420,"chocolate, ice cream, pasta",3,155
-1,420,"Chips , ice cream. ",2,155
-1,420,"peanut butter, dessets, pretzels",3,135
-1,420,"peanut butter, dessets, pretzels",2,135
-1,980,"macaroons, truffles, peanut butter,chocolate, ice cream",3,118
+1,980,"wings, french fries, soup",3,135
+1,980,"chocolate, chips, pretzels",1,135
+2,420,"ice cream, cookies, donuts",2,165
+2,420,"wings, soup, french fries",3,165
+2,980,"burger, snacks",5,175
+2,315,"cookies, ice cream, cookies",2,195
+2,420,"popcorn, french fries, soup",3,185
+2,420,"burger, chips, cookies",6,185
+2,420,"chocolate, chips, pizza, pretzels",1,185
+2,420,"ice cream, cookies, donuts, cake",2,185
+1,420,"popcorn, wings, french fries, soup",3,105
+1,420,"ice cream, cookies, donuts, cake",2,125
+2,420,"donuts, cake, ice cream",2,160
+2,980,"donuts, ice cream",2,175
+2,420,"ice cream, cookies, donuts, cake",2,180
+2,420,"ice cream, cookies, donuts, cake",2,167
+2,420,"chocolate, pasta, cheese",4,167
+1,420,"chocolate, chips, pizza, pretzels",1,115
+1,420,"ice cream, cookies, donuts, cake",2,115
+2,420,"donuts, ice cream",2,205
+2,315,"cake, ice cream",2,185
+1,420,"ice cream, cookies,   chicken nuggets ",2,128
+1,420,"popcorn, wings, soup",3,128
+1,420,"donuts, cake, chicken nuggets, ice cream",2,150
+1,420,"chocolate, chips, pizza, pretzels",1,150
+1,420,"french fries, popcorn, soup",3,150
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets",2,150
+1,420,"pizza, donuts",2,150
+1,420,"chocolate, pizza, pretzels",1,170
+1,980,"chicken nuggets, popcorn, ice cream",2,150
+1,980,"chocolate, pretzels, pizza",1,150
+2,315,"peanut butter, cereal, cookies",6,140
+1,420,"ice cream, cookies, cake",2,135
+1,980,"ice cream, donuts, chicken nuggets",2,100
+1,420,"chocolate, chips, pizza, pretzels",1,170
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets",2,170
+1,315,"ice cream, cookies, donuts, cake, chicken nuggets",2,113
+2,420,"popcorn, pasta, cheese",4,168
+2,980,"ice cream, cookies",2,145
+2,315,"pizza, pretzels, chips",1,155
+2,315,"fried chicken, chocolate, chips",1,150
+2,420,"chocolate, chips, pizza, pretzels, fried chicken",1,169
+2,420,"ice cream, cookies, donuts, cake, chicken nuggets",2,169
+2,980,"chocolate, pasta, cheese",4,185
+2,420,"popcorn, cheese, pasta",4,200
+2,980,"ice cream, cookies, donuts, cake",2,265
+2,420,"chips, pizza, pretzels, fried chicken",1,165
+2,420,"chips, pizza, pretzels, fried chicken",4,165
+2,420,"ice cream, cookies, donuts",2,165
+1,315,"chips, french fries, pizza",1,192
+2,315,"chicken nuggets, ice cream, cake",2,175
+1,980,"burger, snacks, fried chicken",5,140
+1,420,chocolate,1,155
+1,420," ice cream, cake",2,155
+1,420,"pasta, popcorn",3,155
+1,420,"ice cream, cake, chicken nuggets",2,155
+1,420,"popcorn, wings, french fries, soup, pasta",3,135
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets",2,135
+1,980,"popcorn, wings, french fries, soup",3,118
 2,980,"ice cream, cookies",2,210
-2,980,"ice cream, cookies",3,210
-1,980,"carrots , ranch, pretzels, dark chocolate ",3,180
-1,420,"cookies, nutella, ice cream, coffee, fruit ",5,140
+2,980,"popcorn, french fries, soup",3,210
+1,980,"popcorn, wings, soup, pasta",3,180
+1,420,"burger, snacks, fried chicken, macaroons, coffee",5,140
 1,315,ice cream,2,112
-1,420,"chocolate, popcorn, icecream",3,125
-1,420,"icecream, cake, mozzarella sticks, pierogies ",2,144
-1,315,"chips, cheese, pizza, french fries ",1,145
-1,315,"chips, cheese, pizza, french fries ",3,145
-1,315,"chips, cheese, pizza, french fries ",2,145
-1,420,"pizza, burritos, slim jims",1,130
-1,980,"broccoli, spaghetti squash, quinoa, , grilled chicken",3,140
-1,420,"chocolate, ice cream, cookie dough",2,140
-2,980,"pizza, pretzels",2,140
-2,980,"pizza, pretzels",4,140
-2,980,"pizza, pretzels",5,140
-2,420,"chips, ice cream",2,200
-2,420,"chips, ice cream",1,200
-1,420,"cheese, potato soup, ice cream, chips , cheese",3,120
-1,420,"cheese, potato soup, ice cream, chips , cheese",1,120
-1,420,"cheese, potato soup, ice cream, chips , cheese",2,120
-1,420,"chocolate, pizza, , mashed potatoes",2,150
-1,420,"chocolate, pizza, , mashed potatoes",1,150
-2,420,"pizza, cookies, steak",2,200
-1,420,"chocolate, fruit, , ice cream",1,135
-1,420,"chocolate, fruit, , ice cream",2,135
-2,420,"chips, sweets, popcorn",2,145
-1,420,"cookies, burgers, chicken noodle soup, ice cream",5,130
-1,420,"cookies, burgers, chicken noodle soup, ice cream",3,130
-1,420,"cake, French fries, chicken nuggets",2,190
-1,420,"cake, French fries, chicken nuggets",3,190
-1,315,"pizza, ice cream, cookies",2,170
-1,420,"mashed potatoes, pasta",2,127
-1,420,"mashed potatoes, pasta",3,127
-1,420,"pasta dishes, cheesecake, pancakes",3,167
-1,420,"pasta dishes, cheesecake, pancakes",2,167
-1,315,"icecream, pizza, cookies",1,140
-1,420,"chinese food, moes, sponge, homemade lasagne ",2,190
-1,420,"chinese food, moes, sponge, homemade lasagne ",3,190
-2,420,"pizza, pasta, mac , cheese",3,155
-2,980,"little debbie snacks, donuts, pizza",5,175
-1,420,"carrots, plantain chips, almonds, popcorn ",1,129
-1,420,"carrots, plantain chips, almonds, popcorn ",2,129
-2,420,"chips, ice cream, fruit snacks",2,260
-1,420,"macaroni , cheese, chicken noodle soup, pizza",2,135
-1,420,"macaroni , cheese, chicken noodle soup, pizza",1,135
-2,420,"chocolate, chips, icecream, french fries, pizza",1,190
-2,420,"chocolate, chips, icecream, french fries, pizza",3,190
-2,420,"chocolate, chips, icecream, french fries, pizza",2,190
-2,420,"lasagna, chinese food",2,165
-2,420,"lasagna, chinese food",3,165
-2,420,"chinese food, mcdonalds",5,175
-2,420,"doritos, icecream",2,184
-2,420,"icecream, cake, pop, pizza, , milkshakes",5,210
-2,420,"icecream, cake, pop, pizza, , milkshakes",3,210
-1,420,"pizza, icecream , french fries ",4,155
-2,315,"soup, cake",6,185
-1,420,"frosted brownies, chicken nuggs",3,165
-1,420,"watermelon, grapes, ice cream",3,125
-1,420,"watermelon, grapes, ice cream",2,125
-1,420,"macaroni , stuffed peppers, hamburgers, french fries",2,160
-1,420,"macaroni , stuffed peppers, hamburgers, french fries",1,160
-1,420,"pizza, mashed potatoes, spaghetti",4,135
-1,420,"pizza, mashed potatoes, spaghetti",3,135
-1,420,"dark chocolate, terra chips",4,130
-1,420,"chips, chocolate, ,mozzarella sticks ",2,230
-1,420,"chips, chocolate, ,mozzarella sticks ",3,230
-1,420,"icecream, chips,",2,125
-1,420,"icecream, chips,",4,125
-1,315,"pizza, soda, chocolate brownie, chicken tikka masala , butter naan ",1,130
-1,315,"pizza, soda, chocolate brownie, chicken tikka masala , butter naan ",3,130
-1,420,"chocolate, pasta, cookies",1,165
-1,420,"salty snacks, toast",1,128
-1,420,"salty snacks, toast",3,128
-1,420,"salty snacks, toast",2,128
-1,420,"pizza, mozzarella sticks ",1,200
-1,315,"icecream, pizza, chocolate",3,160
-2,980,"snacks, chips",2,170
-1,315,"chocolate, icecream, pizza",3,129
-1,315,"chocolate, icecream, pizza",5,129
-1,315,"chocolate, icecream, pizza",2,129
-1,420,"icecream, pizza, chinese food ",2,170
-1,420,"icecream, pizza, chinese food ",3,170
-2,315,burgers,3,138
-2,315,burgers,5,138
-2,980,"chocolate bar, ice cream, pretzels, potato chips , protein bars.",1,150
-2,980,"chocolate bar, ice cream, pretzels, potato chips , protein bars.",2,150
-1,420,"icecream, chocolate, pizza, cucumber ",2,170
-1,420,"chinese, chips, cake",1,140
-1,420,"chinese, chips, cake",2,140
-2,420,"chips, rice, chicken curry,",5,185
-2,420,"chips, rice, chicken curry,",2,185
-1,420,"wine, pizza, ice cream ",2,156
-1,420,"wine, pizza, ice cream ",3,156
-1,315,"pizza, cheesecake",3,180
-1,420,"rice, potato, seaweed soup",3,120
-2,420,"lasagna, pizza",5,135
+1,420,"popcorn, soup",3,125
+1,420,"ice cream, cake, cheese",2,144
+1,315,"chocolate, chips, pizza, pretzels, fried chicken",1,145
+1,315,"popcorn, wings, french fries, soup, pasta",3,145
+1,315,"cookies, donuts, cake, chicken nuggets, cheese",2,145
+1,420,"chocolate, chips, pizza, pretzels, fried chicken, burritos",1,130
+1,980,"pizza, pretzels, fried chicken",3,140
+1,420,"ice cream, cookies, donuts, cake",2,140
+2,980,"cake, chicken nuggets, cheese",2,140
+2,980,"chips, pizza, pretzels, fried chicken",4,140
+2,980,"burger, snacks, fried chicken, macaroons",5,140
+2,420,"ice cream, cookies, donuts, cake",2,200
+2,420,"chips, pizza, pretzels, fried chicken",1,200
+1,420,"wings, french fries, soup, pasta",3,120
+1,420,"chocolate, chips, pizza, pretzels",1,120
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets, cheese",2,120
+1,420,"ice cream, cookies, chicken nuggets, cheese",2,150
+1,420,"chocolate, pizza,  mashed potatoes",1,150
+2,420,"cake, chicken nuggets, cheese",2,200
+1,420,"chocolate, fruit, pizza",1,135
+1,420,"chocolate, fruit, ice cream",2,135
+2,420,"ice cream, cookies, donuts, cake",2,145
+1,420,"burger, snacks, fried chicken, macaroons",5,130
+1,420,"popcorn, wings, french fries, soup, pasta",3,130
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets",2,190
+1,420,"popcorn, wings, french fries",3,190
+1,315,"donuts, cake, chicken nuggets, cheese",2,170
+1,420,"donuts, cake, chicken nuggets, cheese",2,127
+1,420,"wings, french fries, soup, pasta",3,127
+1,420,"popcorn, wings, french fries, soup, pasta",3,167
+1,420,"ice cream, cookies, donuts",2,167
+1,315,"chocolate, chips, pizza, pretzels",1,140
+1,420,"cookies, donuts, cake, chicken nuggets, cheese",2,190
+1,420,"french fries, soup, pasta",3,190
+2,420,"popcorn, wings, french fries, soup",3,155
+2,980,"burger, snacks, fried chicken",5,175
+1,420,"chocolate, chips, pizza, pretzels, fried chicken",1,129
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets, cheese",2,129
+2,420,"ice cream, cookies, chicken nuggets, cheese",2,260
+1,420,"ice cream, cookies, donuts, cake, cheese",2,135
+1,420,"chips, pizza, pretzels, fried chicken, burritos",1,135
+2,420,"chips, pizza, pretzels, fried chicken",1,190
+2,420,"popcorn, wings, french fries, soup",3,190
+2,420,"ice cream, cookies, donuts, cheese",2,190
+2,420,"cake, chicken nuggets, cheese",2,165
+2,420,"french fries, soup, pasta",3,165
+2,420,"burger, snacks, fried chicken, macaroons, coffee",5,175
+2,420,"ice cream, cookies",2,184
+2,420,"fried chicken, macaroons, milkshakes",5,210
+2,420,"popcorn, wings, french fries, milkshakes",3,210
+1,420,"chips, pizza, pretzels, fried chicken",4,155
+2,315,"peanut butter, cereal, cookies, soup",6,185
+1,420,"wings, french fries, soup, pasta",3,165
+1,420,"wings, french fries, soup, pasta, popcorn",3,125
+1,420,"cookies, donuts, cake, chicken nuggets, ice cream",2,125
+1,420,"cake, chicken nuggets, cheese",2,160
+1,420,"pizza, pretzels, fried chicken, burritos",1,160
+1,420,"pizza, pretzels, fried chicken",4,135
+1,420,"popcorn, wings, french fries, soup, pasta",3,135
+1,420,"chips, pizza",4,130
+1,420,"ice cream, cookies, donuts, cake, cheese",2,230
+1,420,"popcorn, wings, french fries, soup",3,230
+1,420,"ice cream, chips",2,125
+1,420,"ice cream, chips, freid chicken",4,125
+1,315,"chocolate, chips, pizza, pretzels",1,130
+1,315,"french fries, soup, pasta",3,130
+1,420,"chocolate, chips, pizza, pretzels",1,165
+1,420,"chocolate, chips, pizza, pretzels",1,128
+1,420,"soup, pasta",3,128
+1,420,"chicken nuggets, cheese",2,128
+1,420,"pizza, pretzels, fried chicken, burritos",1,200
+1,315,"popcorn, wings, french fries, soup, pasta, chocolate",3,160
+2,980,"cookies, donuts, cake, chicken nuggets, cheese",2,170
+1,315,"popcorn, wings, french fries, pasta",3,129
+1,315,"burger, snacks, fried chicken, macaroons, milkshakes",5,129
+1,315,"chocolate, ice cream, pizza, cheese",2,129
+1,420,"ice cream, cheese, cookies",2,170
+1,420,"popcorn, wings, french fries",3,170
+2,315,popcorn,3,138
+2,315,"burger, snacks, fried chicken",5,138
+2,980,"chocolate, pretzels, chips ",1,150
+2,980,"ice cream, chips, cake, cheese",2,150
+1,420,"ice cream, cookies, donuts, cake",2,170
+1,420,"chocolate, chips, pizza",1,140
+1,420,"ice cream, cake, cookies",2,140
+2,420,"burger, snacks, fried chicken, milkshakes",5,185
+2,420,"ice cream, cookies, donuts, cake",2,185
+1,420,"ice cream, cookies",2,156
+1,420,"french fries, soup, pasta",3,156
+1,315,"french fries, soup, pasta, pizza",3,180
+1,420,"popcorn, wings, french fries, soup",3,120
+2,420,"fried chicken, macaroons, milkshakes, coffee",5,135
+1,315,"chocolate, chips, fried chicken, burritos",1,150
+1,420,"chocolate, pizza, pretzels, fried chicken, burritos",1,180
+1,420,"chocolate, chips, pizza, pretzels",1,140
+2,980,"ice cream, cookies, donuts, cake, chicken nuggets",2,180
+2,420,"ice cream, cookies, donuts, cake, cheese",2,180
+1,420,"ice cream, cookies, donuts, cake, chicken nuggets",2,140
+2,980,"popcorn, wings, french fries",3,135
+2,420,"popcorn, wings, french fries, pasta",3,180
+1,315,"pizza, pretzels, fried chicken, chips",4,125
+1,315,"chips,soup,popcorn,pizza",4,180
+2,420,"pizza, popcorn, wings, french fries",3,135
+2,315,"pizza,chocolate,ice cream",4,185
+2,315,ice cream,4,185
+1,315,"chocolate, chips, pizza",1,125
+2,420,"chocolate, chips, pizza, fried chicken",1,180
+1,315,"french fries, soup, pasta, popcorn",3,125
+1,420,"chocolate, chips, pizza, pretzels, fried chicken",1,190
